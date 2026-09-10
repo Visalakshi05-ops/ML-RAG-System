@@ -1,0 +1,9 @@
+cohere
+langchain
+langchain-community
+langchain-cohere
+langchain-text-splitters
+chromadb
+pypdf
+python-dotenv
+streamlit
